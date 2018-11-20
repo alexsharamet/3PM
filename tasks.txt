@@ -9,7 +9,7 @@
 5)Спецификаторы функций, спецификаторы переменных, типы памяти
 6)Архитектура GPU, архитектура SM
 7)Глобальная память, L1/L2 и coalesced запросы
-8)DeviceQuery и расшифровка понятий (Maximum number of threads per block, Maximum number of threads per multiprocessor, Max dimension size of a thread block (x,y,z) ).
+8)DeviceQuery и расшифровка понятий (Maximum number of threads per block, Maximum number of threads per multiprocessor, Max dimension size of a thread block (x,y,z) ).Зависимость между параметрами.
 9)Occupancy и Limiters
 10)Выделение памяти в DRAM (динамическое, статическое, статическое из ядер)
 11)Shared memory, банки памяти, работа с double и выравнивание памяти
